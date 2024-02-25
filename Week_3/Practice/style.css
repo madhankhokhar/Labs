@@ -1,0 +1,17 @@
+.mybutton{
+    color: rebeccapurple;
+    padding: 10px;
+    background-color: chocolate;
+    border-radius: 5px;
+}
+.mybutton:hover{
+    background-color: chartreuse;
+    padding: 30px;
+    border-radius: 30px;
+}
+.paragraph:hover{
+    text-transform: capitalize;
+}
+.custom_name span:nth-child(2){
+    background-color: red;
+}

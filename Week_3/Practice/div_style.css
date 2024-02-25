@@ -1,0 +1,28 @@
+div span{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    display:block;
+}
+.container{
+    margin: 20px;
+
+}
+.inner{
+    width: 50px;
+    height: 50px;
+    margin: 30px;
+    background-color: aqua;  
+    border-radius: 50px;
+}
+.flex_container{
+    margin: 20px;
+    display: flex;
+
+}
+.flex-inner{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;  
+    border-radius: 50px;
+}

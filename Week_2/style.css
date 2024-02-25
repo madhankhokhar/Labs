@@ -1,0 +1,17 @@
+h2{
+    color: green;
+}
+
+.box{
+    width: 50%;
+    height: 50%;
+    
+    background-color: red;
+}
+#box_with_id{
+    height: 100px;
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    border: 10px solid green;
+}
